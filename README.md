@@ -3,7 +3,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of amazon company over the past year. By analyzing various aspect of the sales data we seek to identify overall sales, profitable product and make data driven recommendation and gain a deeper understanding of the company's preformance.
+This data analysis project aims to provide insights into the sales performance of amazon company over the past year. By analyzing various aspect of the sales data we seek to identify overall sales, profitable product and make data driven recommendation and gain a deeper understanding of the company's performance.
 
 ### Data Source
 ---
